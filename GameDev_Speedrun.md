@@ -11,9 +11,9 @@ Projects Completed: 0
 
 -----
 
-| Project                      | Complete Date | Blog Post | Code Link | Demo |
+| Project                      | Complete Date |    TIME   | Code Link | Demo |
 | ---------------------------- | ------------- | --------- | --------- | ---- |
-| Clone Pong                   |               |           |           |      |
+| Clone Pong                   | 30.03.2026    |9m 40s 57ms|           |      |
 | Clone Hangman                |               |           |           |      |
 | Clone Galaga                 |               |           |           |      |
 | Clone Snake                  |               |           |           |      |
